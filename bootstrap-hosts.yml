@@ -1,7 +1,0 @@
----
-- hosts: all
-  gather_facts: yes
-  roles:
-#    - sshd
-#    - pip_install
-    - bootstrap-host

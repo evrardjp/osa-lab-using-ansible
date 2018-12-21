@@ -1,5 +1,0 @@
-[iad]
-evrardjp-lab-1 ansible_ssh_host=104.239.168.67 ansible_ssh_user=root ansible_user_id=root
-evrardjp-lab-2 ansible_ssh_host=104.239.168.125 ansible_ssh_user=root ansible_user_id=root
-evrardjp-lab-3 ansible_ssh_host=104.130.239.143 ansible_ssh_user=root ansible_user_id=root
-
